@@ -1,5 +1,5 @@
-[![MasterHead](definitivebanner.gif)](https://github.com/TU_USUARIO)
-[![](https://visitcount.itsvg.in/api?id=TU_USUARIO\&icon=0\&color=8)](https://visitcount.itsvg.in)
+[![MasterHead](definitivebanner.gif)](https://github.com/josem-2415)
+[![](https://visitcount.itsvg.in/api?id=josem-2415\&icon=0\&color=8)](https://visitcount.itsvg.in)
 
 <br>
 <br>
@@ -26,11 +26,11 @@
 
 <div align="center">
 
-<a href="TU_LINK_DE_LINKEDIN">
+<a href="www.linkedin.com/in/jose-manuel-cardona-gil-6b26a73b8">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="TU_LINK_DE_DISCORD">
+<a href="https://discord.com/users/801265689348276255">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
