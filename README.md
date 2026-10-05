@@ -1,35 +1,45 @@
-# ¡Hola! 👋 Soy Jose Manuel
+[![MasterHead](definitivebanner.gif)](https://github.com/TU_USUARIO)
+[![](https://visitcount.itsvg.in/api?id=TU_USUARIO\&icon=0\&color=8)](https://visitcount.itsvg.in)
 
-💻 Estudiante de Desarrollo de Software
+<br>
+<br>
 
-Actualmente estoy aprendiendo:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Delius&size=31&pause=998&color=5781DC&center=true&width=435&lines=Welcome+to+my+Github" alt="Typing SVG" />
+  </a>
+</div>
 
-- C++
-- Java
-- SQL
-- Git y GitHub
-- Desarrollo de software
+<h1> About me <img src="totoro.gif" width="40px"></h1>
 
-## 🚀 Sobre mí
+<div>
 
-Soy estudiante de tecnología en desarrollo de software.
-Me interesa seguir aprendiendo programación y desarrollar proyectos
-que me permitan mejorar mis habilidades.
+💻 Currently studying Software Development | 🚀 Learning and building projects | 📚 Always learning new technologies
 
-## 🛠️ Tecnologías
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100" align="right">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-## 📚 Actualmente aprendiendo
+<br>
 
-- Estructuras de datos
-- Bases de datos
-- Algoritmos
-- Desarrollo de aplicaciones
+<h1> Socials <img src="book.gif" width="40px"></h1>
 
----
+<div align="center">
 
-⭐ Gracias por visitar mi perfil.
+<a href="TU_LINK_DE_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="TU_LINK_DE_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</div>
+
+<h1> My stack <img src="pokemon.gif" width="40px"></h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,html,python,git,github,postgresql,mysql,docker,vscode" />
+  </a>
+</p>
