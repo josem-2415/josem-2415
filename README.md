@@ -1,4 +1,4 @@
-[![MasterHead](definitivebanner.gif)](https://github.com/josem-2415)
+[![MasterHead](banner.gif)](https://github.com/josem-2415)
 [![](https://visitcount.itsvg.in/api?id=josem-2415\&icon=0\&color=8)](https://visitcount.itsvg.in)
 
 <br>
