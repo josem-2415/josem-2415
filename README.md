@@ -1,4 +1,8 @@
-[![MasterHead](banner.gif)](https://github.com/josem-2415)
+<p align="center">
+  <a href="https://github.com/josem-2415">
+    <img src="banner.gif" width="100%" />
+  </a>
+</p>
 [![](https://visitcount.itsvg.in/api?id=josem-2415\&icon=0\&color=8)](https://visitcount.itsvg.in)
 
 <br>
