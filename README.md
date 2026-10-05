@@ -3,7 +3,7 @@
     <img src="banner.gif" width="100%" />
   </a>
 </p>
-[![](https://visitcount.itsvg.in/api?id=josem-2415\&icon=0\&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=josem-2415&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <br>
 <br>
