@@ -25,7 +25,7 @@
 
 <br>
 
-<h1> Socials <img src="book.gif" width="40px"></h1>
+<h1> Socials </h1>
 
 <div align="center">
 
