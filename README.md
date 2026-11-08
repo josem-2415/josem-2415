@@ -39,7 +39,7 @@
 
 </div>
 
-<h1> My stack <img src="pokemon.gif" width="40px"></h1>
+<h1> My stack </h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
