@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h1> About me <img src="totoro.gif" width="40px"></h1>
+<h1> About me </h1>
 
 <div>
 
